@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Kap Notes",
+    "version": "1.0",
+    "description": "Generates Summary, Highlights, Actions Items from your Meeting Coversation.",
+    "permissions": [
+        "tabCapture",
+        "downloads",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "host_permissions": [
+        "https://happy-topical-jaybird.ngrok-free.app/notter/*"
+    ]
+}
