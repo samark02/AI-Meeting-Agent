@@ -1,6 +1,6 @@
-# Kap Notes 📝
+# Kap AI 📝
 
-Kap Notes is a streamlined application designed for processing and analyzing audio files to generate transcriptions and store meaningful notes in the cloud. It leverages modern cloud services for storage and advanced tools for transcription and analysis.
+Kap AI is a streamlined application designed for processing and analyzing audio files to generate transcriptions and store meaningful notes in the cloud. It leverages modern cloud services for storage and advanced tools for transcription and analysis.
 
 ## Features
 - Download audio files from a cloud storage bucket.
